@@ -142,7 +142,7 @@ git push origin main
 
 That's it! I hope this repository saved you a lot of manual configuration. If you have any improvement suggestions, feel free to raise an issue or open a PR on Github! 
 
-This Stratus Intel repo is our own copy of the cookiecutter-uv template, that we can adjust to our liking.
+This Stratus Intel repo is our own copy of the cookiecutter-uv template, that we can adjust to our liking. I recommend writing source code to `src/<project_name>/` and notebooks at the top level of the repo.
 
 --- 
  <br>
